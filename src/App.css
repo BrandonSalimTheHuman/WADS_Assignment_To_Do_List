@@ -9,6 +9,12 @@ body {
   color:rgb(17, 4, 102);
 }
 
+/* css for student info */
+.info {
+  color: rgb(17, 4, 102);
+  text-align: cetn;
+}
+
 /* center app containers */
 .app-container {
   display: flex;
